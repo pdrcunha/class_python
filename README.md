@@ -29,3 +29,9 @@ Isso forma a base para entender como o Python lida com funções e passagens de 
 
 ## Concorrência e Paralelismo em Python: Threads e Assincronicidade
 O Python oferece diferentes abordagens para lidar com operações concorrentes e paralelas, cada uma com suas características próprias, Threads e Programação Assíncrona
+
+## Pytest
+Usei o pytest para entender como o pyton trabalha com teste, usei de mocks , fixtures, é yield.
+
+## Uso de sqlalchemy
+Usei uma lib para conexão de dados e CRUD "Básico"

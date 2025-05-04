@@ -3,3 +3,5 @@ ipykernel
 pytest
 requests
 pytest-mock
+sqlalchemy
+psycopg2-binary
